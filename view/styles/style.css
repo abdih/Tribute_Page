@@ -1,0 +1,193 @@
+body, html, .full-height {
+	height: 100%;
+}
+
+body {
+	position: relative;
+}
+
+#main_navigation_collapse ul:nth-child(1) {
+	position: relative;
+	left: 20rem;
+	top: 0.5rem;
+}
+
+#main_navigation_collapse .navbar-right a{
+	font-size: 2em;
+}
+
+header {
+	background-image: url(http://davidgoggins.com/wp-content/uploads/2016/11/home_panel1_banner.jpg);
+	background-position: -15rem 3rem;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+}
+
+#beyond {
+	margin-top: 20rem;
+}
+
+#beyond h3 {
+	font-size: 3rem;
+}
+
+#motivation {
+	margin-top: 2rem;
+}
+
+#motivation h1 {
+	font-size: 8rem;
+}
+
+#characteristics {
+	margin-top: 2rem;
+}
+
+#characteristics>div{
+	position: relative;
+	right: 10rem;
+}
+
+#characteristics h2 {
+	display: inline-block;
+}
+
+#characteristics h2:nth-child(n + 2) {
+	margin-left: 0.5rem;
+}
+
+#button_to_main {
+	margin-top: 2rem;
+}
+
+#button_to_main a{
+	position: relative;
+	left: 22rem;
+}
+
+#button_to_main a, #button_to_main a:visited {
+	color: inherit;
+}
+
+#button_to_main a:hover {
+	color: grey;
+}
+
+main>.container{
+	margin-top: 5rem;
+}
+
+#about {
+	padding-top: 3.5rem;
+	padding-bottom: 1rem;
+	border-bottom-width: 0.25rem;
+	border-bottom-style: solid;
+}
+
+#about img {
+	margin-top: 4rem;
+}
+
+#athletic_achievements {
+	padding-bottom: 1rem;
+	border-bottom-width: 0.25rem;
+	border-bottom-style: solid;
+}
+
+#athletic_achievements #content {
+	position: relative;
+	height: 20rem;
+	margin-top: 0.5rem;
+	overflow: auto;
+}
+
+#athletic_achievements #image {
+	padding-top: 3rem;
+}
+
+#athletic_achievements #image img{
+	max-width: 100%;
+	max-height: 100%;
+}
+
+.panel {
+	margin-bottom: 0;
+	height: 8.5rem;
+}
+
+.panel-body {
+	padding: 0.5rem 0 0.5rem 0;
+}
+
+.panel-heading {
+	text-align: center;
+}
+
+#internal_navigation {
+	height: 5rem;
+}
+
+.well {
+	padding-top: 0;
+}
+
+#internal_navigation .nav>li>a {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.gold {
+	color: gold;
+}
+
+.bronze {
+	color: brown;
+}
+
+#blank {
+	height: 15rem;
+}
+
+#carouselExampleIndicators .item {
+	height: 50rem;
+}
+
+iframe {
+	position: relative;
+	top: 5rem; left: 30rem;
+	width: 55rem;height: 30rem;
+}
+
+footer {
+	background-color: black;
+	margin-top: 4rem;
+	padding-top: 4rem;
+}
+
+#david_goggins_footer {
+	text-align: center;
+	margin-top: 1rem;
+}
+
+#footer_navigation li {
+	font-size: 2rem;
+}
+
+#social_footer {
+	margin-top: 1rem;
+}
+
+#social_footer ul{
+	position: relative;
+	left: 50rem;
+	font-size: 3rem;
+}
+
+#credit p {
+	font-size: 1.5rem;
+	text-align: center;
+	color: white;
+}
